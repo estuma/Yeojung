@@ -171,7 +171,7 @@
 
 <br/>
 
-![여행지도](./READMEGIF/여행지도.jpg){: width="200px"} &nbsp; &nbsp;
+<img src="./READMEGIF/여행지도.jpg" alt="여행지도" width="200px"> &nbsp; &nbsp;
 <br/>
 
 ---
