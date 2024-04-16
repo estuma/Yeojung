@@ -84,23 +84,25 @@
 > 카카오 로그인이 성공하면 회원이 사용할 간편 비밀번호를 입력할 수 있습니다.</br>회원의 금융정보를 불러온다. (싸피_마이데이터)
 </br>
 
-![회원가입](./READMEGIF/회원가입.gif){: width="200px"}
+<img src="./READMEGIF/회원가입.gif" alt="회원가입" width="200px">
 ---
 
 ### 주계좌 등록 및 수정
 
 >은행에서 계좌 목록을 불러와 주계좌를 설정할 수 있습니다. </br>계좌마다 거래내역, 잔액 정보등을 확인할 수 있습니다.
 
-![주계좌](./READMEGIF/주계좌수정.gif){: width="200px"} &nbsp; &nbsp;
+<img src="./READMEGIF/주계좌수정.gif" alt="주계좌" width="200px"> &nbsp; &nbsp;
 ---
- ![주계좌변경1](./READMEGIF/accountChange1.png){: width="200px"} &nbsp; &nbsp;
- ![주계좌변경2](./READMEGIF/accountChange2.png){: width="200px"} 
+<img src="./READMEGIF/accountChange1.png" alt="주계좌변경1" width="200px"> &nbsp; &nbsp;
+<img src="./READMEGIF/accountChange2.png" alt="주계좌변경2" width="200px">
+
 
 ---
 
 ### 메인 화면
- ![주계좌변경1](./READMEGIF/mainpage.png){: width="200px"} &nbsp; &nbsp;
- ![주계좌변경2](./READMEGIF/mainnotification.png){: width="200px"} 
+<img src="./READMEGIF/mainpage.png" alt="메인 화면" width="200px"> &nbsp; &nbsp;
+<img src="./READMEGIF/mainnotification.png" alt="알림" width="200px">
+
 
 ---
 
@@ -112,10 +114,12 @@
 ---
 </br>
 
-![그룹생성](./READMEGIF/그룹생성.gif){: width="200px"} &nbsp; &nbsp; ![그룹생성](./READMEGIF/회원초대.gif){: width="200px"} 
+<img src="./READMEGIF/그룹생성.gif" alt="그룹생성" width="200px"> &nbsp; &nbsp;
+<img src="./READMEGIF/회원초대.gif" alt="회원초대" width="200px"> 
 ---
 </br>
-![그룹생성](./READMEGIF/groupList.png){: width="200px"} &nbsp; &nbsp;![그룹생성](./READMEGIF/invite.png){: width="200px"} &nbsp; &nbsp;
+<img src="./READMEGIF/groupList.png" alt="그룹 목록" width="200px"> &nbsp; &nbsp;
+<img src="./READMEGIF/invite.png" alt="초대" width="200px"> &nbsp; &nbsp;
 </br>
 
 
@@ -126,37 +130,39 @@
 > 영수증 등록 및 현금결제를 추가하여 정산 내역에 포함할 수 있습니다.
 <br/>
 
-![정산요청하기](./READMEGIF/정산요청하기.gif){: width="200px"} &nbsp; &nbsp;
+<img src="./READMEGIF/정산요청하기.gif" alt="정산요청하기" width="200px"> &nbsp; &nbsp;
 
 ---
 
-![그룹목록](./READMEGIF/groupList.png){: width="200px"} &nbsp; &nbsp;
-![현금결제추가](./READMEGIF/현금결제추가.png){: width="200px"} &nbsp; &nbsp;
-![영수증등록](./READMEGIF/영수증등록.gif){: width="200px"} &nbsp; &nbsp;
-![세부금액설정](./READMEGIF/세부금액설정.gif){: width="200px"} &nbsp; &nbsp;
-![정산중](./READMEGIF/doing.png){: width="200px"} &nbsp; &nbsp;
+<img src="./READMEGIF/groupList.png" alt="그룹목록" width="200px"> &nbsp; &nbsp;
+<img src="./READMEGIF/현금결제추가.png" alt="현금결제추가" width="200px"> &nbsp; &nbsp;
+<img src="./READMEGIF/영수증등록.gif" alt="영수증등록" width="200px"> &nbsp; &nbsp;
+<img src="./READMEGIF/세부금액설정.gif" alt="세부금액설정" width="200px"> &nbsp; &nbsp;
+<img src="./READMEGIF/doing.png" alt="정산중" width="200px"> &nbsp; &nbsp;
+
 
 ### 정산하기
 > 마지막으로 정산하기를 누른 인원은 자투리 금액 당첨됩니다.<br/> 그룹원들의 계좌에 잔액이 충분하다면 정산이 진행되며,<br/> 완료후 푸시알림으로 확인할 수 있습니다.
 <br/>
 
-![정산하기](./READMEGIF/정산하기.gif){: width="200px"} &nbsp; &nbsp;
+<img src="./READMEGIF/정산하기.gif" alt="정산하기" width="200px"> &nbsp; &nbsp;
 <br/>
+
 ---
 > **요청받은 정산 내역 수정** 그룹원이 요청한 정산내역에 틀린부분이 발견된다면 한번 더 수정할 수 있습니다.
 
 <br/>
-![정산수정1](./READMEGIF/split.png){: width="200px"} &nbsp; &nbsp;
-![정산수정2](./READMEGIF/splitModify1.png){: width="200px"} &nbsp; &nbsp;
-![정산수정3](./READMEGIF/splitModify2.png){: width="200px"} &nbsp; &nbsp;
-
+<img src="./READMEGIF/split.png" alt="정산수정1" width="200px"> &nbsp; &nbsp;
+<img src="./READMEGIF/splitModify1.png" alt="정산수정2" width="200px"> &nbsp; &nbsp;
+<img src="./READMEGIF/splitModify2.png" alt="정산수정3" width="200px"> &nbsp; &nbsp;
 
 ---
+
 > **진행 과정** 
 <br/>
-![자투리금액](./READMEGIF/자투리금액.png){: width="200px"} &nbsp; &nbsp;
-![정산중](./READMEGIF/정산중.png){: width="200px"} &nbsp; &nbsp;
-![그룹생성](./READMEGIF/done.png){: width="200px"} &nbsp; &nbsp;
+<img src="./READMEGIF/자투리금액.png" alt="자투리금액" width="200px"> &nbsp; &nbsp;
+<img src="./READMEGIF/정산중.png" alt="정산중" width="200px"> &nbsp; &nbsp;
+<img src="./READMEGIF/done.png" alt="그룹생성" width="200px"> &nbsp; &nbsp;
 
 ---
 
